@@ -2,7 +2,7 @@
 layout: habitue
 name: Guirec Corbel
 twitter: GuirecCorbel
-username: GCorbel
+username: gcorbel
 zone: Sept-Iles
 github: GCorbel
 pitch: Breton au Québec
