@@ -1,12 +1,12 @@
 ---
 layout: habitue
-name: Alexandre Lairon
+name: Alexandre Lairan
 website:
 twitter:
-username: alexlairan
+username: alex-lairan
 zone: Paris, France
-github:
-pitch:
+github: https://github.com/alex-lairan
+pitch: Passionné d'architecture logicielle !
 photo:
 desc:
 links:
